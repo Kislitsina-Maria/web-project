@@ -6,5 +6,7 @@ if sum < 10:
     print('not, yet')
 else:
     print("No, I'm sorry")
+d = 1 #Третье измение
+c = 1 #Четвертое измение
 print(a, name, surname, ', Am I happy?')
 print(sum)
